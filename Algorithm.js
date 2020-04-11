@@ -53,6 +53,7 @@ class Algorithm {
             this.population[k].maxInterval >= rand
           ) {
             threeParents[j] = this.population[k]
+            break
           }
         }
       }
