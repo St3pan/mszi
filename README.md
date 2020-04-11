@@ -9,7 +9,7 @@
   - generateFirstPopulation - creates first 20 members
   - nextPopulation - creates a new population with unique members only
   - foundParents - looking for parents (triadic crossover)
-  - getChildren - creates childrens and adds them to main population
+  - getChildren - creates children and adds them to main population
   - getFitness - looking for the fitness individ
   - isFitnessFound - checking fitness streak
   - getOptimalSolution - main loop
